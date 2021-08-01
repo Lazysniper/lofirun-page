@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Trashcan" transform="matrix(1,0,0,1,0,0.5)">
+        <path d="M17,8L7,8L7,18C7,18.552 7.448,19 8,19L16,19C16.552,19 17,18.552 17,18L17,8ZM5,6L5,18C5,19.657 6.343,21 8,21L16,21C17.657,21 19,19.657 19,18L19,6L5,6Z" style="fill:rgb(111,134,214);"/>
+        <rect x="3" y="6" width="18" height="2" style="fill:rgb(111,134,214);"/>
+        <rect x="9" y="10" width="2" height="7" style="fill:rgb(111,134,214);"/>
+        <rect x="13" y="10" width="2" height="7" style="fill:rgb(111,134,214);"/>
+        <path d="M16.9,6C16.966,6.323 17,6.658 17,7L17,8L7,8L7,7C7,6.658 7.034,6.323 7.1,6C7.563,3.718 9.581,2 12,2C14.419,2 16.437,3.718 16.9,6ZM9.171,6C9.583,4.835 10.694,4 12,4C13.306,4 14.418,4.835 14.829,6L9.171,6Z" style="fill:rgb(111,134,214);"/>
+    </g>
+</svg>
